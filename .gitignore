@@ -1,0 +1,10 @@
+#Instrucciones 
+/Archivos/conexion.txt
+*.meta
+*.class
+/Archivos/B/**/*.zzz
+/Archivos/B/**/Datos
+/Archivos/A/Sub 1/Estado/*
+!/Archivos/A/Sub 1/Estado/feliz.html
+
+
